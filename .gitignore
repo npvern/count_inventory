@@ -1,0 +1,20 @@
+# Training outputs and model weights
+runs/
+*.pt
+
+# Raw video and extracted frames
+*.mp4
+drone_frames/
+video_to_stitch/
+video_to_stitch2/
+
+# YOLO label caches / editor files
+*.cache
+*.code-workspace
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env

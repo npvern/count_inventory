@@ -1,0 +1,6 @@
+test: C:\Users\VICTUS\Desktop\count_inventory\bigbag_dataset_updated2.0\test
+train: C:\Users\VICTUS\Desktop\count_inventory\bigbag_dataset_updated2.0\train
+val: C:\Users\VICTUS\Desktop\count_inventory\bigbag_dataset_updated2.0\val
+nc: 1
+names:
+  0: bigbag
